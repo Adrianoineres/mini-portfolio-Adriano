@@ -1,5 +1,5 @@
 body{
-    background-image: url(../imagens/fundo-site.jpg);
+    background-image: url(../imagens/jsiamagem.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -17,7 +17,7 @@ body{
 .cartao{
     background-color: #070d12;
     width: 370px;
-    border: 2px solid #e126d9;
+    border: 2px solid #80ce08;
     border-radius: 10px;
     overflow: hidden;
 }
